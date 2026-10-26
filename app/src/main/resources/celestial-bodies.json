@@ -1,0 +1,22 @@
+[
+  {
+    "id": "rosette-nebula",
+    "name": "NGC 2237",
+    "commonName": "로제트 성운",
+    "constellation": "외뿔소자리 (Monoceros)",
+    "description": "약 5,000광년 떨어진 별 탄생 영역입니다. 중심의 젊고 뜨거운 별무리 NGC 2244의 빛과 항성풍이 주변 가스와 먼지 구름을 빚어내고 있습니다.",
+    "imageResource": "/images/rosette.png",
+    "animationResource": "/animations/rosette_flow_480x320_30f.gif",
+    "sourceUrl": "https://science.nasa.gov/image-article/apod-2025-february-14-a-cosmic-rose-ngc-2237-in-monoceros/"
+  },
+  {
+    "id": "m57",
+    "name": "M57",
+    "commonName": "고리 성운",
+    "constellation": "거문고자리 (Lyra)",
+    "description": "태양과 비슷한 별이 바깥층을 방출하며 남긴 행성상 성운입니다. 실제로는 통 모양의 가스 구조를 지구에서 바라보아 고리처럼 보이며, 약 2,000광년 떨어져 있습니다.",
+    "imageResource": "/images/m57.png",
+    "animationResource": "/animations/nebula_pixel_flow.gif",
+    "sourceUrl": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-57/"
+  }
+]
